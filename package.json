@@ -6,6 +6,7 @@
   "author": "Jake Runzer",
   "license": "MIT",
   "scripts": {
+    "web": "npm start",
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js"
